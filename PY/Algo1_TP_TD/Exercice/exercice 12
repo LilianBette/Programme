@@ -1,0 +1,3 @@
+def tri_insertion (t):
+tab=list(t)
+print(tab)
